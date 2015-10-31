@@ -1,3 +1,3 @@
-slyn-url-matcher-factory
+slyn-state-factory
 ========================
 
