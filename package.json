@@ -19,7 +19,7 @@
   "dependencies": {
     "underscore": "^1.8.3",
     "slyn-util-helper": "git://github.com/malikov/slyn-util-helper.git#0.0.1",
-    "slyn-url-matcher-factory": "git://github.com/malikov/slyn-url-matcher-factory.git#master",
+    "slyn-url-matcher-factory": "git://github.com/malikov/slyn-url-matcher-factory.git#master"
   },
   "bugs": {
     "url": "https://github.com/malikov/slyn-state-factory/issues"
