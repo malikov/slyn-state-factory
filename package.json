@@ -1,0 +1,27 @@
+{
+  "name": "slyn-state-factory",
+  "version": "0.0.1",
+  "description": "slyn-state-factory",
+  "main": "lib/index.js",
+  "keywords": [
+    "url-matcher-factory"
+  ],
+  "homepage": "https://github.com/malikov/slyn-state-factory",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/malikov/slyn-state-factory"
+  },
+  "author": {
+    "name": "Vincent Maliko",
+    "email": "malikovincent@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "underscore": "^1.8.3",
+    "slyn-util-helper": "git://github.com/malikov/slyn-util-helper.git#0.0.1",
+    "slyn-url-matcher-factory": "git://github.com/malikov/slyn-url-matcher-factory.git#master",
+  },
+  "bugs": {
+    "url": "https://github.com/malikov/slyn-state-factory/issues"
+  }
+}
